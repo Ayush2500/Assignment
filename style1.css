@@ -1,0 +1,31 @@
+.Container{
+    margin:auto;
+ height:330px;
+ width:533px;
+ border:3px dashed red;
+ padding:20px;
+ 
+ 
+   
+ }
+ .div1{
+     height:300px;
+     width:500px;
+     background-color: rgb(251, 159, 93);
+     padding:20px;
+    
+ }
+ .div2{
+     height:250px;
+     width:450px;
+     background-color: rgb(251, 217, 95);
+     padding:25px;
+     
+ }
+ .div3{
+     height:180px;
+     width:508px;
+     background-color:rgb(90, 130, 239);
+     
+     margin-top:-15px;
+ }
